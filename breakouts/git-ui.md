@@ -33,6 +33,8 @@
         - Need a better solution than the reflog hack Scott demoed
 - Meta: How do we avoid tools wiping each others headers and/or additional directories?
     - Official add some space and support 3rd party headers, directories, etc.
+ 
+- Hard to do fine grained control about ref visibility especially between clients
 
 
 ## Next Steps
